@@ -169,7 +169,7 @@ function App() {
             <a href="#work">Work</a>
             <a href="#services">Services</a>
             <a href="#about">About</a>
-            <a href="#contact" className="nav-cta">Get in touch</a>
+            <a href="#contact" className="nav-cta">Start a project</a>
           </nav>
           <button
             className="menu-button"
